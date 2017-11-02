@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE database SYSTEM "http://db.apache.org/torque/dtd/database">
+  <database name="APP">
+  
+  
+  <!--- Your code here -->
+  
+
+  </database>
